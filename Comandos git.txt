@@ -1,0 +1,16 @@
+git init 
+git status
+git add -A
+git commit -m "Mensaje"
+git branch "Nueva Branch"
+git branch
+git checkout "Branch"
+git checkout <Commit>
+git log
+git reset --soft <Branch>
+git reset --hard <Branch>
+git merge <Branch>
+git branch -D <Branch>
+git clone <HTTPS-GITHUB>
+git remote -v
+git remote add origin <HTTPS_GITHUB>

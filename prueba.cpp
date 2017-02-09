@@ -6,3 +6,8 @@ int main(){
 	std::cout<<"Sale vale"<<std::endl;
 	return 0;
 }
+
+int main(){
+
+	return 0;
+}
