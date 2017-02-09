@@ -14,3 +14,4 @@ git branch -D <Branch>
 git clone <HTTPS-GITHUB>
 git remote -v
 git remote add origin <HTTPS_GITHUB>
+git remote remove origin
